@@ -332,7 +332,7 @@ kv_table([
     ("Office", "AB 4103"),
     ("Email", "omalik@kettering.edu"),
     ("Phone", "(616) 808-9866"),
-    ("Office Hours", "By appointment, online"),
+    ("Office Hours", "Monday and Thursday, 12:20–1:20 P.M."),
     ("Preferred Communication Method", "Email"),
 ])
 
