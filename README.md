@@ -25,7 +25,7 @@ Students:
 - Learn the core concepts of OB through a well-established textbook
 - Read the classic studies behind those concepts and identify the assumptions they make about human knowers and human deciders
 - Examine new evidence on how AI changes trust, learning, motivation, leadership, teamwork, fairness, and culture
-- Work with AI in weekly Human–AI Learning Labs and reflect on how the collaboration changed what they knew and what they decided
+- Write weekly reading reflections that propose how classic OB theories should change for human–AI work
 - Study a real organization's human–AI work practices in a team project
 
 Students leave the course able to explain OB, apply it, and question it.
@@ -69,17 +69,16 @@ The **Joint Knowing and Deciding (JKD) Framework** is the organizing structure o
        asked at the Individual, Group, and Organization levels
 ```
 
-Every reading, lab, case discussion, and project milestone maps to one or more of these questions.
+Every reading, reflection, case discussion, and project milestone maps to one or more of these questions.
 
 ---
 
 ## Weekly Scholarly Dialogue
 
-Each week pairs a textbook chapter and a classic OB article with a recent AI article:
+Week 1 introduces the course with Chapter 1 of the textbook. Beginning in Week 2, each week pairs a textbook chapter and a classic OB article with a recent AI article:
 
 | Week | Theme | Classic OB | Contemporary AI |
 |---|---|---|---|
-| 1 | OB When Humans and AI Think Together | Simon (1991) — Bounded rationality and organizational learning | Bankins et al. (2023) — A multilevel review of AI in organizations |
 | 2 | Personality, Attitudes, and Trust in AI | Mayer, Davis & Schoorman (1995) — An integrative model of trust | Vuori et al. (2025) — Emotional and cognitive trust in AI |
 | 3 | Learning and Perception with Algorithms | Nonaka (1994) — Organizational knowledge creation | Anthony (2021) — Black boxing algorithmic technologies |
 | 4 | Motivation and Work Design | Hackman & Oldham (1976) — Job characteristics theory | Schulz et al. (2025) — AI adoption and job satisfaction |
@@ -99,10 +98,10 @@ Students approach every pairing with four questions: What does the classic theor
 | Component | Weight |
 |---|---:|
 | Class Participation (case discussions) | 10% |
-| Weekly Human–AI Learning Reflections | 25% |
+| Weekly Reading Reflections | 20% |
 | Midterm Examination | 15% |
 | Human–AI Work Study — Milestones | 10% |
-| Human–AI Work Study — Final Report | 15% |
+| Human–AI Work Study — Final Report | 20% |
 | Human–AI Work Study — Presentation | 10% |
 | Final Examination | 15% |
 | **Total** | **100%** |
@@ -119,7 +118,7 @@ Students approach every pairing with four questions: What does the classic theor
 | [Part III — Intellectual Foundations](md%20files/part_3_intellectual_foundations.md) | The classic OB canon and the AI-at-work canon |
 | [Part IV — The JKD Framework](md%20files/part_4_the_jkd_framework.md) | Joint Knowing and Deciding: the organizing framework |
 | [Part V — Weekly Learning Modules](md%20files/part_5_weekly_learning_modules.md) | Week-by-week roadmap |
-| [Part VI — Human–AI Learning Labs](md%20files/part_6_human_ai_learning_labs.md) | Weekly lab exercises and reflection design |
+| [Part VI — Weekly Reading Reflections](md%20files/part_6_reading_reflections.md) | Reflection design and the OB Theory Update |
 | [Part VII — The Human–AI Work Study](md%20files/part_7_human_ai_work_study.md) | Team project, milestones, and deliverables |
 | [Part VIII — Assessment Standards](md%20files/part_8_assessment_standards.md) | Grading, rubrics, and assurance of learning |
 | [Part IX — Policies](md%20files/part_9_policies.md) | Responsible AI, academic integrity, professional conduct |

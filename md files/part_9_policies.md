@@ -14,7 +14,7 @@ filename: "part_9_policies.md"
 
 # Introduction
 
-In this course, AI is both a subject of study and a learning partner. Students are expected to use AI in the weekly labs and are welcome to use it in other work.
+In this course, AI is both a subject of study and a learning partner. Students are welcome to use AI in their work, within the guidelines below.
 
 AI is treated neither as a prohibited technology nor as a substitute for thinking. Its outputs must be questioned, verified, and used responsibly. The purpose of this policy is to make expectations clear and to protect the integrity of every student's learning.
 
@@ -55,7 +55,6 @@ As this course shows, AI can affect how people are hired, evaluated, and treated
 
 Students are encouraged to use AI to:
 
-- complete the Human–AI Learning Labs as instructed;
 - explain difficult concepts in the textbook or readings;
 - generate practice questions for exams;
 - brainstorm ideas and alternative explanations;
@@ -74,7 +73,7 @@ The following are inconsistent with the expectations of this course:
 - citing sources that have not been read;
 - using AI during examinations;
 - entering personal or confidential information into AI tools;
-- using AI to complete a reflection without actually doing the lab;
+- using AI to write a reading reflection without reading the assigned articles;
 - failing to disclose substantive AI use.
 
 ---
@@ -91,7 +90,7 @@ If no AI was used, students write: *"No AI tools were used in preparing this wor
 
 # Prompt Documentation
 
-For each Human–AI Learning Lab, students save their key prompts and AI outputs. These records support the lab log in the weekly reflection and may be requested by the instructor.
+Students are encouraged to keep a record of significant AI interactions used in their reflections and project work. These records support the AI disclosure statement and may be requested by the instructor.
 
 ---
 

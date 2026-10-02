@@ -122,7 +122,7 @@ Milestones receive written feedback and a grade. Together they account for 10% o
 
 # Required Final Deliverables
 
-## Final Report (15%)
+## Final Report (20%)
 
 A report of no more than 8 pages (excluding references and appendices), single-spaced, one-inch margins, APA 7th edition citations, with:
 

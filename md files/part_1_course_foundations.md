@@ -64,7 +64,7 @@ Each week of the course examines one row of this table in depth.
 
 > **How does organizational behavior change when humans and AI jointly develop knowledge and make decisions?**
 
-Students return to this question in every class discussion, every lab reflection, and every project milestone.
+Students return to this question in every class discussion, every reading reflection, and every project milestone.
 
 ---
 
@@ -82,9 +82,9 @@ Every theory rests on assumptions. Students learn to find the assumptions about 
 
 Claims about AI at work are everywhere. This course relies on peer-reviewed research. Students learn to distinguish what studies show from what commentators predict.
 
-## 4. Experience Deepens Understanding
+## 4. Writing Deepens Understanding
 
-Students learn about human–AI collaboration partly by practicing it. Weekly labs make abstract concepts — trust calibration, knowledge co-creation, hidden profiles, algorithmic fairness — concrete and personal.
+Students sharpen their thinking by writing about it. Weekly reflections make abstract concepts — trust calibration, knowledge co-creation, hidden profiles, algorithmic fairness — concrete by asking students to apply them and propose how theory should change.
 
 ## 5. People Come First
 
@@ -94,7 +94,7 @@ Effective, fair, and humane work is the goal. AI is valuable when it helps peopl
 
 # Pedagogical Model
 
-The course follows a four-part weekly cycle.
+The course follows a three-part weekly cycle.
 
 ## Learn
 
@@ -104,10 +104,6 @@ Students read the textbook chapter and the classic article, and review the core 
 
 Students read the contemporary AI article and identify which assumptions of the classic theory it supports, challenges, or changes.
 
-## Experience
-
-In the Human–AI Learning Lab, students complete a short OB task together with an AI tool and document what the AI contributed, what they contributed, and how the outcome changed.
-
 ## Apply
 
 Students discuss a Harvard Business School case, write a reflection, and apply the week's ideas to their team's Human–AI Work Study.
@@ -116,13 +112,9 @@ Students discuss a Harvard Business School case, write a reflection, and apply t
 
 # Signature Learning Experiences
 
-## Human–AI Learning Labs
+## Weekly Reading Reflections and OB Theory Updates
 
-Ten short, structured labs (Part VI) in which students work with AI on an OB task and reflect on the collaboration.
-
-## OB Theory Updates
-
-Each weekly reflection ends with a short theory update in response to the prompt:
+Nine short reflections (Part VI), one each week from Week 2 to Week 10. Each reflection ends with a short theory update in response to the prompt:
 
 > *"If this OB theory were rewritten for workplaces where people and AI build knowledge and make decisions together, I would change…"*
 
@@ -156,6 +148,6 @@ Students succeed in this course when they:
 | Treats AI as a side topic, if at all | Treats human–AI collaboration as the context for every topic |
 | Relies mostly on the textbook | Pairs the textbook with classic and current research articles |
 | Assesses mostly through exams | Assesses through reflections, a team project, and exams |
-| Discusses technology in the abstract | Uses AI in weekly labs and studies the experience |
+| Discusses technology in the abstract | Examines peer-reviewed evidence on how people work with AI |
 
 The course prepares students not only to *know* organizational behavior, but to *update* it.

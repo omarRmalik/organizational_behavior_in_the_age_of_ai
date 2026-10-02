@@ -57,7 +57,6 @@ Undergraduate students are not expected to master every methodological detail. T
 
 | Theme | Reading | Why It Matters |
 |---|---|---|
-| Overview | Bankins et al. (2023). A multilevel review of artificial intelligence in organizations. *Journal of Organizational Behavior, 45*(2), 159–182. | Maps AI's effects on workers at the individual, group, and organizational levels. |
 | Trust in AI | Vuori, Burkhard, & Pitkäranta (2025). *Journal of Management Studies, 63*(2), 473–514. | Separates emotional from cognitive trust and shows how each shapes AI adoption. |
 | Knowledge Work | Anthony (2021). Black boxing algorithmic technologies. *Administrative Science Quarterly, 66*(4), 1173–1212. | Shows when knowledge workers stop understanding the tools they rely on. |
 | Job Satisfaction | Schulz, Bendig, Bräunche, & Kindermann (2025). *Journal of Management Studies, 63*(2), 561–595. | Uses job characteristics theory to explain AI's mixed effects on satisfaction. |
@@ -72,6 +71,7 @@ Undergraduate students are not expected to master every methodological detail. T
 
 | Theme | Reading |
 |---|---|
+| Overview | Bankins et al. (2023). A multilevel review of artificial intelligence in organizations. *Journal of Organizational Behavior, 45*(2), 159–182. |
 | Knowledge Work | Kim, Rezazade Mehrizi, & Bailey (2025). Interlacing situated and algorithmic modes of knowledge work. *Academy of Management Journal, 68*(5), 907–938. |
 | Creativity | Jia, Luo, Fang, & Liao (2024). When and how artificial intelligence augments employee creativity. *Academy of Management Journal, 67*(1), 5–32. |
 | Algorithmic Evaluation | Rahman (2021). The invisible cage. *Administrative Science Quarterly, 66*(4), 945–988. |
@@ -96,9 +96,10 @@ Full citations appear in Part X.
 
 # Weekly Scholarly Dialogue
 
+Week 1 introduces the course; paired readings begin in Week 2.
+
 | Week | Classic OB | Contemporary AI |
 |---|---|---|
-| 1 | Simon (1991) | Bankins et al. (2023) |
 | 2 | Mayer, Davis & Schoorman (1995) | Vuori et al. (2025) |
 | 3 | Nonaka (1994) | Anthony (2021) |
 | 4 | Hackman & Oldham (1976) | Schulz et al. (2025) |
@@ -153,4 +154,4 @@ Every reading is also placed in the JKD Framework (Part IV):
 
 # Intellectual Contribution of the Course
 
-The course invites undergraduate students into an active research conversation. By the end of the term, each student will have written ten short theory updates — proposals for how classic OB ideas should change when humans and AI know and decide together. The strongest of these become the conceptual core of their team's Human–AI Work Study.
+The course invites undergraduate students into an active research conversation. By the end of the term, each student will have written nine short theory updates — proposals for how classic OB ideas should change when humans and AI know and decide together. The strongest of these become the conceptual core of their team's Human–AI Work Study.

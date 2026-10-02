@@ -58,8 +58,6 @@ Stasser, G., & Titus, W. (1985). Pooling of unshared information in group decisi
 
 Anthony, C. (2021). When knowledge work and analytical technologies collide: The practices and consequences of black boxing algorithmic technologies. *Administrative Science Quarterly, 66*(4), 1173–1212. https://doi.org/10.1177/00018392211016755
 
-Bankins, S., Ocampo, A. C., Marrone, M., Restubog, S. L. D., & Woo, S. E. (2023). A multilevel review of artificial intelligence in organizations: Implications for organizational behavior research and practice. *Journal of Organizational Behavior, 45*(2), 159–182. https://doi.org/10.1002/job.2735 **[Open Access]**
-
 Erengin, T., Briker, R., & de Jong, S. B. (2025). You, me, and the AI: The role of third-party human teammates for trust formation toward AI teammates. *Journal of Organizational Behavior*. Advance online publication. https://doi.org/10.1002/job.2857
 
 Faulconbridge, J., Sarwar, A., & Spring, M. (2023). How professionals adapt to artificial intelligence: The role of intertwined boundary work. *Journal of Management Studies, 62*(5), 1991–2024. https://doi.org/10.1111/joms.12936 **[Open Access]**
@@ -79,6 +77,8 @@ Zercher, D., Jussupow, E., Benke, I., & Heinzl, A. (2025). How can teams benefit
 ---
 
 ## Contemporary AI-at-Work Canon — Extension Readings
+
+Bankins, S., Ocampo, A. C., Marrone, M., Restubog, S. L. D., & Woo, S. E. (2023). A multilevel review of artificial intelligence in organizations: Implications for organizational behavior research and practice. *Journal of Organizational Behavior, 45*(2), 159–182. https://doi.org/10.1002/job.2735 **[Open Access]**
 
 Bellesia, F., Mattarelli, E., Bertolotti, F., & Sobrero, M. (2024). Algorithmic embeddedness and the 'gig' characteristics model: Examining the interplay between technology and work design in crowdwork. *Journal of Management Studies, 62*(7), 2673–2706. https://doi.org/10.1111/joms.13130 **[Open Access]**
 
@@ -144,7 +144,7 @@ Available through the course packet.
 
 ## AI Tools for Course Use
 
-Students may use university-approved general-purpose AI assistants (for example, Claude, ChatGPT, Copilot, or Gemini) for the Human–AI Learning Labs. Research tools such as Consensus, Elicit, or Scite may help locate and check scholarly sources, but every source must be read and cited directly.
+Students may use university-approved general-purpose AI assistants (for example, Claude, ChatGPT, Copilot, or Gemini) as learning partners, following the policy in Part IX. Research tools such as Consensus, Elicit, or Scite may help locate and check scholarly sources, but every source must be read and cited directly.
 
 ---
 
@@ -152,7 +152,7 @@ Students may use university-approved general-purpose AI assistants (for example,
 
 | Week | Textbook | Classic OB | Contemporary AI |
 |---:|---|---|---|
-| 1 | Ch. 1 | Simon (1991) | Bankins et al. (2023) |
+| 1 | Ch. 1 | — (optional: Simon, 1991) | — (optional: Bankins et al., 2023) |
 | 2 | Ch. 5 | Mayer, Davis, & Schoorman (1995) | Vuori, Burkhard, & Pitkäranta (2025) |
 | 3 | Ch. 4 | Nonaka (1994) | Anthony (2021) |
 | 4 | Ch. 6 | Hackman & Oldham (1976) | Schulz, Bendig, Bräunche, & Kindermann (2025) |

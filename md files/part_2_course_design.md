@@ -20,11 +20,11 @@ filename: "part_2_course_design.md"
 | Theme | Organizational Behavior in the Age of Artificial Intelligence |
 | Credits | 4 |
 | Prerequisite | MGMT-104 |
-| Format | In person; lecture, case discussion, and weekly Human–AI Learning Labs |
+| Format | In person; lecture and case discussion |
 
 ## Course Description
 
-The central task in organizations is working with people. Increasingly, people work alongside artificial intelligence that searches, summarizes, predicts, recommends, evaluates, and decides. This course surveys research-based findings in organizational behavior — personality, perception and learning, motivation, leadership, group decision making, teams, diversity, and culture — and examines how each changes when humans and AI jointly develop knowledge and make decisions. Students pair a core textbook with classic and contemporary research, work with AI in weekly labs, analyze Harvard Business School cases, and study a real organization's human–AI work practices in a team project. Ethical implications, including fairness, accountability, and employee well-being, are examined throughout.
+The central task in organizations is working with people. Increasingly, people work alongside artificial intelligence that searches, summarizes, predicts, recommends, evaluates, and decides. This course surveys research-based findings in organizational behavior — personality, perception and learning, motivation, leadership, group decision making, teams, diversity, and culture — and examines how each changes when humans and AI jointly develop knowledge and make decisions. Students pair a core textbook with classic and contemporary research, write weekly reading reflections, analyze Harvard Business School cases, and study a real organization's human–AI work practices in a team project. Ethical implications, including fairness, accountability, and employee well-being, are examined throughout.
 
 > *Note:* "Organizational Behavior in the Age of Artificial Intelligence" is used as the course theme and syllabus subtitle. The catalog title remains "Organizational Behavior" unless changed through the university's curriculum approval process.
 
@@ -74,9 +74,9 @@ Upon successful completion of this course, students will be able to:
 |---|---|---|
 | OB Knowledge | Exam item analysis | Midterm and Final Examinations |
 | Analytical Reasoning | Report rubric (analysis criteria) | Human–AI Work Study Final Report |
-| Theory Evaluation | Reflection rubric (theory update criterion) | Weekly Human–AI Learning Reflections |
-| Ethical Reasoning | Report rubric (fairness and accountability section) | Human–AI Work Study Final Report; Lab 8 reflection |
-| Responsible AI Use | Reflection rubric + AI disclosure | Weekly Human–AI Learning Reflections |
+| Theory Evaluation | Reflection rubric (theory update criterion) | Weekly Reading Reflections |
+| Ethical Reasoning | Report rubric (fairness and accountability section) | Human–AI Work Study Final Report; Week 8 reading reflection |
+| Responsible AI Use | Reflection rubric + AI disclosure | Weekly Reading Reflections |
 | Communication and Teamwork | Presentation rubric + peer evaluation | Human–AI Work Study Presentation |
 
 ## Course Learning Outcome Assessment Matrix
@@ -84,7 +84,7 @@ Upon successful completion of this course, students will be able to:
 | Assessment | CLO 1 | CLO 2 | CLO 3 | CLO 4 | CLO 5 | CLO 6 |
 |---|:-:|:-:|:-:|:-:|:-:|:-:|
 | Class Participation | X | X | | X | | |
-| Human–AI Learning Reflections | | | X | | X | |
+| Weekly Reading Reflections | | | X | | X | |
 | Midterm Examination | X | X | | | | |
 | Work Study Milestones | | X | X | | | |
 | Work Study Final Report | | X | X | X | | X |
@@ -128,7 +128,7 @@ The design reflects three commitments:
 
 1. **Foundation before critique.** Students learn each theory before evaluating it.
 2. **Evidence before opinion.** Claims about AI are tested against peer-reviewed research.
-3. **Experience before generalization.** Students work with AI before theorizing about working with AI.
+3. **Application before generalization.** Students apply each theory to cases and their project before proposing how it should change.
 
 ---
 

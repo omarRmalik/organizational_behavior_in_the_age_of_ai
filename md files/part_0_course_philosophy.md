@@ -91,13 +91,11 @@ The goal is to see *exactly where* the classic theory holds, where it bends, and
 
 ---
 
-# Learning by Working With AI
+# Writing Toward Better Theory
 
-Students will not only read about human–AI collaboration. They will experience it.
+Beginning in Week 2, students write a short **reading reflection** each week. Each reflection examines what the classic theory assumes about who knows and who decides, what the AI study shows, and ends with an **OB Theory Update**: a specific, evidence-based proposal for how the theory should change.
 
-Each week includes a short **Human–AI Learning Lab**, in which students complete an OB task together with an AI tool, and a written **reflection** on how the collaboration changed what they knew and what they decided.
-
-These labs turn the central question of the course into direct experience. Students notice when they trusted AI too much or too little, when AI improved a decision and when it narrowed it, and when their own judgment mattered most.
+Over nine weeks, these reflections turn the central question of the course into a habit of thought. Students learn to notice where a familiar theory still holds, where it bends, and where it needs new ideas.
 
 ---
 

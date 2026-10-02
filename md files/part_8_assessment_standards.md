@@ -23,10 +23,10 @@ Compared with previous offerings, which weighted exams at 60%, the course now pl
 | Assessment Component | Weight | Primary Learning Outcomes |
 |---|---:|---|
 | Class Participation (case discussions) | 10% | CLO 1, CLO 2, CLO 4 |
-| Weekly Human–AI Learning Reflections | 25% | CLO 3, CLO 5 |
+| Weekly Reading Reflections | 20% | CLO 3, CLO 5 |
 | Midterm Examination | 15% | CLO 1, CLO 2 |
 | Human–AI Work Study — Milestones | 10% | CLO 2, CLO 3 |
-| Human–AI Work Study — Final Report | 15% | CLO 2, CLO 3, CLO 4, CLO 6 |
+| Human–AI Work Study — Final Report | 20% | CLO 2, CLO 3, CLO 4, CLO 6 |
 | Human–AI Work Study — Presentation | 10% | CLO 4, CLO 6 |
 | Final Examination | 15% | CLO 1, CLO 2, CLO 3 |
 | **Total** | **100%** | |
@@ -36,9 +36,9 @@ Compared with previous offerings, which weighted exams at 60%, the course now pl
 | Component | Summer 2026 | Fall 2026 |
 |---|---:|---:|
 | Class Participation | 20% | 10% |
-| Weekly Reflections | — | 25% |
+| Weekly Reading Reflections | — | 20% |
 | Midterm Examination | 30% | 15% |
-| Project (milestones, report, presentation) | 20% | 35% |
+| Project (milestones, report, presentation) | 20% | 40% |
 | Final Examination | 30% | 15% |
 
 ---
@@ -69,15 +69,14 @@ Students who find it difficult to speak in group discussions should talk with th
 
 ---
 
-## Weekly Human–AI Learning Reflections
+## Weekly Reading Reflections
 
-Each reflection is scored out of 10. The best 9 of 10 count.
+There are nine reflections (Weeks 2–10). Each is scored out of 10. The best 8 of 9 count.
 
 | Criterion | Points | Excellent | Developing |
 |---|---:|---|---|
-| Lab Log | 3 | Specific account of AI and human contributions and how the outcome changed | Generic description of the lab |
-| Reading Connection | 3 | Accurately connects the experience to both readings | Mentions readings without connecting them |
-| OB Theory Update | 3 | A clear, specific, evidence-based revision to the classic theory | Vague claim that "AI changes things" |
+| Reading Connection | 4 | Accurately explains the classic theory, its assumptions about who knows and who decides, and what the AI study shows | Summarizes the readings without connecting them |
+| OB Theory Update | 5 | A clear, specific, evidence-based revision to the classic theory | Vague claim that "AI changes things" |
 | AI Disclosure | 1 | Complete and honest | Missing or incomplete |
 
 ---
@@ -162,7 +161,7 @@ Direct measures of learning are drawn from:
 - exam item analysis (Knowledge — CLO 1);
 - the final report's analysis criteria (Reasoning — CLO 2, CLO 3);
 - the reflection rubric's theory update criterion (CLO 3);
-- the final report's ethics criterion and the Lab 8 reflection (Ethics — CLO 4);
+- the final report's ethics criterion and the Week 8 reading reflection (Ethics — CLO 4);
 - the reflection rubric and AI disclosure (Responsible AI use — CLO 5);
 - the presentation rubric and peer evaluations (Communication and Teamwork — CLO 6).
 

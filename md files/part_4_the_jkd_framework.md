@@ -16,7 +16,7 @@ Organizational behavior has always studied two things at once: the **processes**
 
 When AI enters the workplace, it enters the processes first. It contributes knowledge, and it contributes to decisions. The consequences follow.
 
-The **Joint Knowing and Deciding (JKD) Framework** gives students a consistent way to analyze any setting in which people and AI work together. It is used in every class discussion, lab, case, and project milestone.
+The **Joint Knowing and Deciding (JKD) Framework** gives students a consistent way to analyze any setting in which people and AI work together. It is used in every class discussion, reflection, case, and project milestone.
 
 ---
 

@@ -12,15 +12,14 @@ filename: "part_5_weekly_learning_modules.md"
 
 # Overview
 
-The course meets twice a week for ten weeks, followed by a finals week. Each week follows the same rhythm:
+The course meets twice a week for ten weeks, followed by a finals week. Week 1 introduces the course. Beginning in Week 2, each week follows the same rhythm:
 
 1. Textbook chapter — core concepts
 2. Classic OB article — the foundational theory
 3. Contemporary AI article — what changes
-4. Human–AI Learning Lab — experience the change
-5. Case discussion (most weeks) — apply it to a real organization
-6. Reflection and OB Theory Update — make sense of it
-7. Human–AI Work Study — apply it to the team's organization
+4. Case discussion (most weeks) — apply it to a real organization
+5. Reading reflection and OB Theory Update — make sense of it
+6. Human–AI Work Study — apply it to the team's organization
 
 **Textbook:** Hitt, Miller, Colella, and Triana, *Organizational Behavior* (5th ed.). Wiley. ISBN 978-1-119-39173-9.
 
@@ -32,7 +31,7 @@ Chapter numbers for Chapters 1, 2, 4, 5, 6, and 10 follow the 5th edition as use
 
 | Week | Theme | Level | JKD | Textbook | Classic OB | Contemporary AI | HBS Case | Work Study |
 |---|---|---|---|---|---|---|---|---|
-| **1** | OB When Humans and AI Think Together | All | 1–7 | Ch. 1: A strategic approach to OB | Simon (1991) | Bankins et al. (2023) | — | Form teams; propose organization |
+| **1** | OB When Humans and AI Think Together | All | 1–7 | Ch. 1: A strategic approach to OB | — | — | — | Form teams; propose organization |
 | **2** | Personality, Attitudes, and Trust in AI | Individual | 5 | Ch. 5: Personality, intelligence, attitudes, and emotions | Mayer, Davis & Schoorman (1995) | Vuori et al. (2025) | Microsoft Customer and Partner Solutions: The Deployment of Copilot (A) | Organization approved |
 | **3** | Learning and Perception with Algorithms | Individual | 1, 2 | Ch. 4: Learning and perception | Nonaka (1994) | Anthony (2021) | — | **Milestone 1:** Individual-level analysis |
 | **4** | Motivation and Work Design | Individual | 5 | Ch. 6: Work motivation | Hackman & Oldham (1976) | Schulz et al. (2025) | Trouble at Tessei | — |
@@ -50,7 +49,9 @@ Chapter numbers for Chapters 1, 2, 4, 5, 6, and 10 follow the 5th edition as use
 
 ## Week 1 — OB When Humans and AI Think Together
 
-Introduces OB, its three levels of analysis, and the central question of the course. Simon's bounded rationality explains why people have always needed help to know and decide; Bankins et al. map what AI is already changing at each level. Students meet the JKD Framework and complete Lab 1.
+Introduces OB, its three levels of analysis, and the central question of the course. Students meet the JKD Framework, form project teams, and learn how to read a research article. Paired readings begin in Week 2.
+
+**Optional background:** Simon (1991); Bankins et al. (2023).
 
 **Guiding question:** What does classic OB assume about who knows and who decides?
 
@@ -160,13 +161,9 @@ Students bring the levels together in their own theory updates and team project.
 
 Classic and contemporary readings are discussed side by side each week.
 
-## Human–AI Learning Lab
+## Reading Reflection and OB Theory Update
 
-A 30–40 minute in-class lab in which students complete an OB task with an AI tool (Part VI).
-
-## Reflection and OB Theory Update
-
-A weekly written reflection on the lab and the readings, ending with a proposed theory update.
+A weekly written reflection on the paired readings (Weeks 2–10), ending with a proposed theory update (Part VI).
 
 ## Harvard Business School Case Discussion
 
