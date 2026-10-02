@@ -123,7 +123,7 @@ Students approach every pairing with four questions: What does the classic theor
 | [Part VIII — Assessment Standards](md%20files/part_8_assessment_standards.md) | Grading, rubrics, and assurance of learning |
 | [Part IX — Policies](md%20files/part_9_policies.md) | Responsible AI, academic integrity, professional conduct |
 | [Part X — Reading List](md%20files/part_10_reading_list.md) | Complete reading list with DOIs |
-| [Fall 2026 Syllabus](syllabus/) | Syllabus (.docx) and the script that builds it |
+| [Fall 2026 Syllabus](syllabi/mgt_205_fall_2026_malik.docx) | Syllabus (.docx); the script that builds it is in [syllabi/](syllabi/) |
 
 ---
 
